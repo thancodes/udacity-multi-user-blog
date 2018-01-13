@@ -1,0 +1,21 @@
+{
+  "name": "udacity-multi-user-blog",
+  "homepage": "https://github.com/tawatchair/udacity-multi-user-blog",
+  "authors": [
+    "Tawatchai Rakpuen <me@tawatchairakpue.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "Font-Awesome#^4.7.0",
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
